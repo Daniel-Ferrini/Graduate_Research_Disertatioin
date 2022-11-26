@@ -64,9 +64,9 @@ The repository and its file contents can be depicted in the third order breakdow
 
 This project was developed and presented alongside the supervision of the following:
 
-*Dr Daniel Verscharen
+* Dr Daniel Verscharen
 
-*Dr Andy Smith
+* Dr Andy Smith
 
 All acknowledgements and gratitude are to be awarded to these individuals for their support and contributions.
 
