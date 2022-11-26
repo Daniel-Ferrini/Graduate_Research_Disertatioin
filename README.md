@@ -7,41 +7,35 @@ This repository contains all the documents and files pertaining to the M.Sc Spac
 
 The project involved the interfacing and extracting of real data taken from the NASA Parker Solar Probe, the respective code for the extraction and processing of this data can be found in the following files:
 
-'''
-
+```
 cdf_loader.py
 
 cdf_fetcher.py
 
 data_model.py
-
-'''
+```
 
 Following the data extraction and processing, the statistical and machine learning models were developed and tested, the respective code for the implementation of these models can be found in the following files:
 
-'''
-
+```
 utils.py
-
-'''
+```
 
 In order to visualise and display the project statistics various plots and methods were developed, the respective code for this data visualisation can be found in the following repositories:
 
 
-'''
-
+```
 evaluation_tools.py
 
 model_evaluation.py
-
-'''
+```
 
 ---
 ## Repository Contents
 
 The repository and its file contents can be depicted in the third order breakdown-tree as follows:
 
-|--> Dissertation
+|--> Dissertation<\br>
 |--> Code
 	|--> cdf_loader.py
 	|--> cdf_fetcher.py
