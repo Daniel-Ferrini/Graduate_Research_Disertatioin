@@ -35,29 +35,29 @@ model_evaluation.py
 
 The repository and its file contents can be depicted in the third order breakdown-tree as follows:
 
-|--> Dissertation<\br>
-|--> Code
-	|--> cdf_loader.py
-	|--> cdf_fetcher.py
-	|--> data_model.py
-	|--> evaluation_tools.py
-	|--> model_evaluation.py
-	|--> utils.py
-	|--> data_files
-		|--> distance.dat
-		|--> parker_mag_data.cdf
-		|--> parker_wind_data.cdf
-		|--> raw_data
-		|--> solar_data
-	|--> meta
-		|--> second
-		|--> third
-		|--> fourth
-	|--> model_files
-		|--> dbscan.pkl
-		|--> gaussian_mixture.pkl
-		|--> hierarchical.pkl
-		|--> k_means.pkl
+|--> Dissertation<br>
+|--> Code<br>
+	|--> cdf_loader.py<br>
+	|--> cdf_fetcher.py<br>
+	|--> data_model.py<br>
+	|--> evaluation_tools.py<br>
+	|--> model_evaluation.py<br>
+	|--> utils.py<br>
+	|--> data_files<br>
+		|--> distance.dat<br>
+		|--> parker_mag_data.cdf<br>
+		|--> parker_wind_data.cdf<br>
+		|--> raw_data<br>
+		|--> solar_data<br>
+	|--> meta<br>
+		|--> second<br>
+		|--> third<br>
+		|--> fourth<br>
+	|--> model_files<br>
+		|--> dbscan.pkl<br>
+		|--> gaussian_mixture.pkl<br>
+		|--> hierarchical.pkl<br>
+		|--> k_means.pkl<br>
 
 ---
 ## Acknowledgements
