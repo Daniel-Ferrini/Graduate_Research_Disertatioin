@@ -37,27 +37,27 @@ The repository and its file contents can be depicted in the third order breakdow
 
 |--> Dissertation<br>
 |--> Code<br>
-	|--> cdf_loader.py<br>
-	|--> cdf_fetcher.py<br>
-	|--> data_model.py<br>
-	|--> evaluation_tools.py<br>
-	|--> model_evaluation.py<br>
-	|--> utils.py<br>
-	|--> data_files<br>
-		|--> distance.dat<br>
-		|--> parker_mag_data.cdf<br>
-		|--> parker_wind_data.cdf<br>
-		|--> raw_data<br>
-		|--> solar_data<br>
-	|--> meta<br>
-		|--> second<br>
-		|--> third<br>
-		|--> fourth<br>
-	|--> model_files<br>
-		|--> dbscan.pkl<br>
-		|--> gaussian_mixture.pkl<br>
-		|--> hierarchical.pkl<br>
-		|--> k_means.pkl<br>
+&emsp	|--> cdf_loader.py<br>
+&emsp	|--> cdf_fetcher.py<br>
+&emsp	|--> data_model.py<br>
+&emsp	|--> evaluation_tools.py<br>
+&emsp	|--> model_evaluation.py<br>
+&emsp	|--> utils.py<br>
+&emsp	|--> data_files<br>
+&emsp&emsp		|--> distance.dat<br>
+&emsp&emsp		|--> parker_mag_data.cdf<br>
+&emsp&emsp		|--> parker_wind_data.cdf<br>
+&emsp&emsp		|--> raw_data<br>
+&emsp&emsp		|--> solar_data<br>
+&emsp	|--> meta<br>
+&emsp&emsp		|--> second<br>
+&emsp&emsp		|--> third<br>
+&emsp&emsp		|--> fourth<br>
+&emsp	|--> model_files<br>
+&emsp&emsp		|--> dbscan.pkl<br>
+&emsp&emsp		|--> gaussian_mixture.pkl<br>
+&emsp&emsp		|--> hierarchical.pkl<br>
+&emsp&emsp		|--> k_means.pkl<br>
 
 ---
 ## Acknowledgements
