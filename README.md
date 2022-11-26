@@ -40,24 +40,24 @@ The repository and its file contents can be depicted in the third order breakdow
 &emsp;	|--> cdf_loader.py<br>
 &emsp;	|--> cdf_fetcher.py<br>
 &emsp;	|--> data_model.py<br>
-<&emsp>	|--> evaluation_tools.py<br>
-<&emsp>	|--> model_evaluation.py<br>
-<&emsp>	|--> utils.py<br>
-<&emsp>	|--> data_files<br>
-<&emsp><&emsp>		|--> distance.dat<br>
-<&emsp><&emsp>		|--> parker_mag_data.cdf<br>
-<&emsp><&emsp>		|--> parker_wind_data.cdf<br>
-<&emsp><&emsp>		|--> raw_data<br>
-<&emsp><&emsp>		|--> solar_data<br>
-<&emsp>	|--> meta<br>
-<&emsp><&emsp>		|--> second<br>
-<&emsp><&emsp>		|--> third<br>
-<&emsp><&emsp>		|--> fourth<br>
-<&emsp>	|--> model_files<br>
-<&emsp><&emsp>		|--> dbscan.pkl<br>
-<&emsp><&emsp>		|--> gaussian_mixture.pkl<br>
-<&emsp><&emsp>		|--> hierarchical.pkl<br>
-<&emsp><&emsp>		|--> k_means.pkl<br>
+&emsp;	|--> evaluation_tools.py<br>
+&emsp;	|--> model_evaluation.py<br>
+&emsp;	|--> utils.py<br>
+&emsp;	|--> data_files<br>
+&emsp;&emsp;		|--> distance.dat<br>
+&emsp;&emsp;		|--> parker_mag_data.cdf<br>
+&emsp;&emsp;		|--> parker_wind_data.cdf<br>
+&emsp;&emsp;		|--> raw_data<br>
+&emsp;&emsp;		|--> solar_data<br>
+&emsp;	|--> meta<br>
+&emsp;&emsp;		|--> second<br>
+&emsp;&emsp;		|--> third<br>
+&emsp;&emsp;		|--> fourth<br>
+&emsp;	|--> model_files<br>
+&emsp;&emsp;		|--> dbscan.pkl<br>
+&emsp;&emsp;		|--> gaussian_mixture.pkl<br>
+&emsp;&emsp;		|--> hierarchical.pkl<br>
+&emsp;&emsp;		|--> k_means.pkl<br>
 
 ---
 ## Acknowledgements
