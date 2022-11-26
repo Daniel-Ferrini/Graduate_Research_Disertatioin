@@ -37,9 +37,9 @@ The repository and its file contents can be depicted in the third order breakdow
 
 |--> Dissertation<br>
 |--> Code<br>
-<&emsp>	|--> cdf_loader.py<br>
-<&emsp>	|--> cdf_fetcher.py<br>
-<&emsp>	|--> data_model.py<br>
+emsp	|--> cdf_loader.py<br>
+emsp	|--> cdf_fetcher.py<br>
+emsp	|--> data_model.py<br>
 <&emsp>	|--> evaluation_tools.py<br>
 <&emsp>	|--> model_evaluation.py<br>
 <&emsp>	|--> utils.py<br>
